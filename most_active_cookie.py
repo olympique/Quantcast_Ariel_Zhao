@@ -1,3 +1,11 @@
+'''
+Note: Since my solution is written in Python, please precede the original command line argument by 'python'
+when you run the program.
+
+For instance, given the original command: ./most_active_cookie cookie_log.csv -d 2018-12-09
+please type: python ./most_active_cookie cookie_log.csv -d 2018-12-09
+'''
+
 import sys
 
 def parse_file(file_name):
